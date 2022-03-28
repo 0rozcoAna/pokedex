@@ -1,0 +1,86 @@
+.pokedex{
+	background-color: red;
+	border-radius: 20px;
+	border: solid 3px black;
+	margin-top: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.pantalla{
+	background-color: skyblue;
+	opacity: .90;
+	border: solid gray 2px;
+	border-radius: 10px;
+	margin-top: 20px;
+	height: 200px;
+
+}
+
+.botones{
+	margin-top: 25px;
+	text-align: center;
+
+}
+
+.inputredondo{
+	border: solid 1px skyblue;
+	border-radius: 5px;
+}
+
+
+
+.imagen{
+display:block;
+margin:auto;
+}
+
+.estadisticas{
+	border-left: brown dotted 3px;
+}
+
+.enk{
+	margin-top: 20px;
+	background-color: white;
+	opacity: .90;
+}
+
+.redd{
+	background-color: darkred;
+	opacity: .80;
+	margin-top: 10px;
+}
+.imgn{
+
+ 	width: 75%;
+ 	object-fit: contain;
+ 	padding: 10px;
+}
+
+.cv{
+	background-color: seagreen;
+	opacity: .70;
+	padding: 10px;
+	margin: 5px;
+}
+.altavoz{
+	padding: 5px;
+	border: dotted 3px black;
+}
+.espacio{
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+
+body{
+	background-image: url('fondop.jpeg');
+}
+
+p{
+	color: white;
+	font-style: bold;
+	font-size: 20px;
+	text-align: left;
+}
+
